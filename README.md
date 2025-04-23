@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project is **deprecated** and was superseded by [LoRaBridge2](https://github.com/lorabridge2). The replacement for **this** repository is [here](https://github.com/lorabridge2/bridge-device-sse).
+
 # Device SSE
 This repository is part of the [LoRaBridge](https://github.com/lorabridge/lorabridge) project.
 It provides the docker image for the SSE server which provides data for the webinterface used on our bridge device.
